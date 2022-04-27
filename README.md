@@ -1,7 +1,7 @@
 # TikTok Botter
-Educational Purposes Only. Contact Dreamer#5114 for assistance.  
+Educational Purposes Only. Contact Juanto#6799 for assistance.  
 
-Tool That Uses Zefoy To Bot Your TikTok Follow, Hearts, Views, & Shares!  
+Tool That Uses To Bot Your TikTok Follow, Hearts, Views, & Shares!  
 Update: Revamped, Updated the Xpath, Added custom botting option  
 _______________________
 ## Instructions
